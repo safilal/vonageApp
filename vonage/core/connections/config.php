@@ -1,7 +1,7 @@
 <?php
 
 define('VRESTAPI', 'https://my.vonagebusiness.com');
-define('VUSERNAME', 'safilal');
-define('VPASSWORD', 'Codoliprane120809??');
+define('VUSERNAME', 'userID');
+define('VPASSWORD', 'password');
 
 ?>
